@@ -1,3 +1,3 @@
-# This is my Homework 5. Learning Geocoding-with-APIs
+# Homework 5 for the LEDE program—learning geocoding with APIs.
 
 
